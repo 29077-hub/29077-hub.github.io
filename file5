@@ -1,0 +1,36 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Law Rules</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="problem.html">Problem</a></li>
+        <li><a href="rules.html">Rules</a></li>
+        <li><a href="support.html">Support</a></li>
+    </ul>
+</nav>
+
+<header>
+    <h1>Main Rules of the Law</h1>
+</header>
+
+<section>
+    <ul>
+        <li>All AI-generated content must be clearly labeled</li>
+        <li>Users must be informed when AI is being used</li>
+        <li>Companies are responsible for harm caused by AI</li>
+        <li>High-risk AI must pass safety and bias testing</li>
+        <li>Deepfakes must be labeled and regulated</li>
+    </ul>
+</section>
+
+</body>
+</html>
+```
