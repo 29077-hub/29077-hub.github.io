@@ -1,0 +1,40 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Support the Law</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="problem.html">Problem</a></li>
+        <li><a href="rules.html">Rules</a></li>
+        <li><a href="support.html">Support</a></li>
+    </ul>
+</nav>
+
+<header>
+    <h1>Why You Should Support It</h1>
+</header>
+
+<section>
+    <p>
+        This law protects individuals from misinformation and harmful AI practices.
+        It ensures fairness, transparency, and accountability in AI systems.
+    </p>
+
+    <p>
+        Supporting this law means supporting a safer digital future where technology
+        works for everyone.
+    </p>
+
+    <button>Support This Law</button>
+</section>
+
+</body>
+</html>
+```
