@@ -1,0 +1,41 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Transparency Act</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="problem.html">Problem</a></li>
+        <li><a href="rules.html">Rules</a></li>
+        <li><a href="support.html">Support</a></li>
+    </ul>
+</nav>
+
+<header>
+    <h1>AI Transparency & Accountability Act</h1>
+    <p>Ensuring AI is safe, fair, and transparent</p>
+</header>
+
+<section>
+    <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995">
+    <h2>Welcome</h2>
+    <p>
+        Artificial Intelligence is rapidly shaping our world. However, without proper regulation,
+        it can lead to misinformation, bias, and lack of accountability.
+    </p>
+    <p>
+        The AI Transparency & Accountability Act ensures that AI is used responsibly,
+        protecting individuals while allowing innovation.
+    </p>
+</section>
+
+</body>
+</html>
+```
